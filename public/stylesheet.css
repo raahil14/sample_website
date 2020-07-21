@@ -1,0 +1,147 @@
+body{
+	margin-top:-50px;
+	padding-top:0px;  
+}
+.header{
+	background-color:#707B7C;
+	color:#fff;
+	height:90px;
+	font-family: 'Russo One', sans-serif;
+	font-size:50px;
+
+}
+.header-logo{
+	padding:20px 40px;
+	color:#fff;
+	float:left;
+	padding-bottom:100px;  
+}
+.header li{
+	float:right;
+	font-family: 'Dosis', sans-serif;
+	font-weight:normal;
+	font-size:20px; 
+	list-style:none;
+	color:#fff;
+	padding:40px 40px 40px 40px;
+
+}
+.header a{
+	color:#fff;
+	text-decoration:none; 
+}
+a:hover{
+	color:#000000;
+	text-decoration: underline;
+}
+.part img{
+	width:800px;
+	height:400px; 
+	padding-left:110px;
+	margin-left:250px;
+	margin-right:250px;
+}
+.part h3{
+	padding-left:50px;
+	color:#fff; 
+	font-family: 'Dosis', sans-serif;
+	font-size:50px;
+}
+.part h4{
+	padding-left:40px;
+	color:#fff;
+	font-family: 'Overpass', sans-serif;
+	font-weight:normal;
+}
+body{
+	background-color:#000000
+}
+.header{
+	color:#fff;
+}
+.entry{
+	color:#fff;
+	font-family: 'Dosis', sans-serif;
+	opacity:0.8; 
+
+}
+.main{
+	padding-top:100px;
+	padding-bottom:100px; 
+	background-image:url(build.jpg)
+}
+.content{
+	color:#fff;
+	font-family: 'Dosis', sans-serif;
+
+}
+.content h4{
+margin-left:250px;
+	margin-right:250px;
+	text-align:center;
+	font-family: 'Overpass', sans-serif;
+	font-weight:normal;
+
+}
+
+
+
+.part h4{
+	font-family: 'Overpass', sans-serif;
+	font-weight:normal;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	 
+	
+}
+.content h2{
+	margin-left:250px;
+	margin-right:250px;
+	text-align:center;
+	font-size:50px;
+}
+.entry h1{
+	font-size:75px;
+	margin-left:250px;
+	margin-right:250px;
+	text-align:center;
+}
+.entry h3{
+	font-family: 'Overpass', sans-serif;
+	font-weight:normal; 
+	margin-left:250px;
+	margin-right:250px;
+	text-align:center;
+}
+.footer{
+	color:#fff;
+	background-color:#707B7C;
+	height:120px; 
+
+}
+.footer ul{
+	float:right;
+	padding-right: 40px;
+}
+.footer li{
+	padding-bottom:10px; 
+	font-family: 'Dosis', sans-serif;
+	font-weight:normal;
+	list-style:none; 
+}
+.footer h4{
+	font-size:10px;
+	font-family: 'Dosis', sans-serif;
+	font-weight:normal;
+	padding-top:90px;
+	padding-left:500px; 
+	float: left; 
+
+}
+.footer-logo{
+	float:left;
+	padding:20px 40px;
+	font-family: 'Russo One', sans-serif;
+
+}
